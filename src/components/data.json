@@ -1,0 +1,49 @@
+[
+    {
+        "id":1,
+        "name":"Ram Charan",
+        "age":36,
+        "image":"https://images.indianexpress.com/2020/12/ram-charan-corona-1200.jpg"
+    },{
+        "id":2,
+        "name":"N. T. Rama Rao Jr.",
+        "age":38,
+        "image":"https://filmfare.wwmindia.com/content/2020/may/jrntrbirthday11589964961.jpg"
+    },{
+        "id":3,
+        "name":"Allu Arjun",
+        "age":38,
+        "image":"https://www.tollywood.net/wp-content/uploads/2020/02/Allu-Arjun-to-buy-property-in-Mumbai.jpg"
+    },{
+        "id":4,
+        "name":"Pooja Hegde",
+        "age":30,
+        "image":"http://trendingindia.com/wp-content/uploads/2019/10/pooja-hegde-beauty-tips.jpg"
+    },{
+        "id":5,
+        "name":"Prabhas",
+        "age":41,
+        "image":"https://cdn.siasat.com/wp-content/uploads/2020/12/p-ed.jpg"
+    },{
+        "id":6,
+        "name":"Mahesh Babu",
+        "age":45,
+        "image":"https://www.filmibeat.com/img/2021/06/maheshbabu-1622872692.jpg"
+    },{
+        "id":7,
+        "name":"Kajal Aggarwal",
+        "age":36,
+        "image":"https://images.indulgexpress.com/uploads/user/imagelibrary/2020/2/21/original/KajalAggarwalPhotoInternet.jpg?w=360&dpr=2.6"
+    },{
+        "id":8,
+        "name":"Pawan Kalyan",
+        "age":49,
+        "image":"https://www.greatandhra.com/newphotos9/pawan%20dates1624520644.jpg"
+    },
+    {
+        "id":9,
+        "name":"Shruti hassan",
+        "age":35,
+        "image":"https://www.india.com/wp-content/uploads/2016/01/Shruti-Haassan.jpg"
+    }
+]
